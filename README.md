@@ -3,4 +3,4 @@ _______________________________________________
 This is a basic dictionary app have little bit of intelligence to guess typos.
 
 # To use
-Copy all the files in the dict folder and run it on your system. 
+Copy all the files in the dict folder.
