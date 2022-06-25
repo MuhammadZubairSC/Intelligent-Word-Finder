@@ -1,0 +1,1 @@
+Open the command prompt and run mainDict.py file.
